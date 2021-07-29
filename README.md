@@ -2,7 +2,8 @@
 
 - 📚 Técnica em Informática
 - 🌱 Conhecimento em HTML, CSS, Banco de dados SQL e em Java.
-
+- 💻 Atualmente estudando front-end ❤
+ ##
 <div>
   <a href="https://github.com/IngridFerreira-tech">
   <img height ="180em"src ="https://github-readme-stats.vercel.app/api?username=IngridFerreira-tech&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
