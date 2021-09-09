@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Ingrid Ferreira 😄
 
 - 📚 Técnica em Informática
-- 🌱 Conhecimento em HTML, CSS, Banco de dados SQL e em Java.
-- 💻 Atualmente estudando front-end ❤
+- 🌱 Conhecimento em HTML, CSS, Banco de dados SQL e em Java
+- 💻 Atualmente estudando front-end e back-end
  ##
 <div>
   <a href="https://github.com/IngridFerreira-tech">
