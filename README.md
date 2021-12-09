@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ingrid Ferreira 😄
+### Olá! Eu sou a Ingrid 😄
 
 - 📚 Técnica em Informática
 - 💻 Atualmente estudando front-end e back-end
