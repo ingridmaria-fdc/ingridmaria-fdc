@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Ingrid 😄
 
 - 📚 Técnica em Informática
-- 💻 Atualmente estudando front-end e back-end
+- 💻 Cursando Ciência da Computação
  ##
 <div>
   <a href="https://github.com/IngridFerreira-tech">
