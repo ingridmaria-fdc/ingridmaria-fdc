@@ -1,4 +1,4 @@
-### Olá Eu Sou a Ingrid! 😄
+### Olá eu sou a Ingrid! 😄
 
 - 📚 Técnica em Informática
 - 💻 Cursando Ciência da Computação
