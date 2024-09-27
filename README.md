@@ -1,11 +1,6 @@
 
 # Olá, eu sou a Ingrid! 👋
 
-
-## 🚀 Sobre mim
-Sou desenvolvedora frontend
-
-
 ## Etiquetas
 
 
